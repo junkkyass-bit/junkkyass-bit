@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<h2 align="center">I'm FullStack developer From Morocco</h2>
+<h2 align="center">I'm a FullStack developer From Morocco</h2>
 
 <h3 align="left">About Me :</h3>
 <p align="left">
