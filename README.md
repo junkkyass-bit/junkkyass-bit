@@ -3,11 +3,11 @@
  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zakaria+Moumsik!;" />
   </a>
 </h1>
 
-<h2 align="center">FullStack developer</h2>
+<h2 align="center">I'm FullStack developer From Morocco</h2>
 
 <h3 align="left">About Me :</h3>
 <p align="left">
