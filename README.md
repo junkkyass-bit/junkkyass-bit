@@ -7,8 +7,8 @@
 <h3 align="center">🇲🇦 Fullstack Developer · Morocco · Building the web, one commit at a time</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zakaria-moumsik&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/zakaria-moumsik?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=junkkyass-bit&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/junkkyass-bit?label=Followers&style=flat&color=0e75b6" alt="followers" />
 </p>
 
 ---
@@ -18,6 +18,7 @@
 ```javascript
 const zakaria = {
   name: "Zakaria Moumsik",
+  github: "junkkyass-bit",
   location: "Morocco 🇲🇦",
   role: "Fullstack Developer (in training)",
   education: "1st Year · Fullstack Development",
@@ -74,12 +75,12 @@ const zakaria = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakaria-moumsik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-moumsik&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junkkyass-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=junkkyass-bit&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-moumsik&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkkyass-bit&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
